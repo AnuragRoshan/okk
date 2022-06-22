@@ -1,0 +1,11 @@
+.top{
+    width: fit-content;
+    margin: 0 auto;
+    padding-block-start: 10px;
+   font-size: xx-large;
+   font-family: 'Montserrat';
+}
+
+.logo{
+    width: 2px;
+}
